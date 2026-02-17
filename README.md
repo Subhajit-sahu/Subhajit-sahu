@@ -97,13 +97,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Subhajit-sahu/Subhajit-sahu/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
